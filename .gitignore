@@ -1,0 +1,29 @@
+# Python
+*.pyc
+__pycache__/
+env/
+venv/
+ENV/
+*.pyo
+*.pyd
+
+# Django
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.mo
+*.pot
+*.py[co]
+*~ 
+*.swp
+*~
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Environment variables
+.env
